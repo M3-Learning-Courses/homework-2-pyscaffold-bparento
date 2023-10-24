@@ -34,8 +34,8 @@ homework-2-pyscaffold-bparento
 ==============================
 
 
-    Add a short description here!
-
+    Hi, this assignment is for MEMT680 HW2
+    Pyfiglet is a install requirement
 
 A longer description of your project goes here...
 
