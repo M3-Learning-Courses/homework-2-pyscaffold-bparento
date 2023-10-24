@@ -35,15 +35,15 @@ homework-2-pyscaffold-bparento
 
 
     Hi, this assignment is for MEMT680 HW2
-    Pyfiglet is a install requirement
+    
 
-A longer description of your project goes here...
-
+Pyfiglet is a install requirement
 
 .. _pyscaffold-notes:
 
 Note
 ====
-
+The main branch has a code coverage above 90%
+The Ai_Playing_TicTacToe has a coverage above 60%
 This project has been set up using PyScaffold 4.5. For details and usage
 information on PyScaffold see https://pyscaffold.org/.
