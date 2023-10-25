@@ -34,7 +34,7 @@ homework-2-pyscaffold-bparento
 ==============================
 
 
-    Add a short description here!
+    Here is a copy of my AI ran game of TicTacToe!
 
 
 A longer description of your project goes here...
