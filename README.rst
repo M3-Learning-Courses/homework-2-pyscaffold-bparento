@@ -34,7 +34,7 @@ homework-2-pyscaffold-bparento
 ==============================
 
 
-    Here is a copy of my AI ran game of TicTacToe!
+    Here is a copy of my AI ran game of TicTacToe! Basically, run the TicTacToe.py file and watch as an automatically generated AI plays.
 
 
 A longer description of your project goes here...
